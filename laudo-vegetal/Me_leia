@@ -8,8 +8,8 @@ Os dados contêm:
 Quadra:          Quadras amostradas mediante sorteio 
 Bairros:         Bairros que foram amostradas as quadras
 Nome científico: Nomes das espécies amostradas
-Latitude 
-Longitude
+Latitude:        Coordenada sul em metros
+Longitude:       Coordenada oeste em metros
 Nome comum:      Nome vulgar
 Hábito:          Se árvore, arbusto
 PAP:             Perímetro à altura do peito em m
